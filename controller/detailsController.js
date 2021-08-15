@@ -5,7 +5,7 @@ function getData(){
         winning: 12, 
         marketValue: 40000,
         reservePrice:5000,
-        streetAddress: "14 Floot St.",
+        streetAddress: "14 Floor St.",
         address: "New Orleans, LA 70122"
     };
     return Data;
